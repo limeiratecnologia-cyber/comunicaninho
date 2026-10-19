@@ -1,0 +1,8 @@
+{
+  "name": "COMUNICA NINHO",
+  "description": "COMUNICA NINHO - Carinho que faz crescer, cuidado que faz voar. Aplicativo infantil de comunicação alternativa para montar frases, falar em voz alta e organizar a rotina.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
